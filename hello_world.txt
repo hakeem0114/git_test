@@ -1,1 +1,4 @@
 Adding text 
+
+New commit with a description in the command line
+" git commit -m "Added description in hello_world.txt"
